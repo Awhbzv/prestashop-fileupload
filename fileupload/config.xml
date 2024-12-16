@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <name>fileupload</name>
+    <displayName>File Upload Module</displayName>
+    <description>A simple module for uploading files in PrestaShop.</description>
+    <author>awhbzv</author>
+    <version>1.0.0</version>
+    <tab>front_office_features</tab>
+    <need_instance>0</need_instance>
+    <ps_versions_compiled>8.2.0</ps_versions_compiled>
+    <confirm_uninstall>Are you sure you want to uninstall this module?</confirm_uninstall>
+</module>
